@@ -1,2 +1,3 @@
-# Calculator
-A simple calculator created using flutter.
+# calculator
+
+A new Flutter project.
