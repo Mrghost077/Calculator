@@ -38,7 +38,7 @@ Before running this project, ensure you have the following installed:
 ### 🖥️ Calculator UI  
 ![Calculator UI](assets/screenshots/ui.png)  
 
-### 📱 Mobile View  
+### 📱 View With value  
 ![With Values](assets/screenshots/uitext.png)  
  
 
